@@ -73,34 +73,7 @@ The winner is Sarah with $200.75 bid
 - **Returns**: Prints the winner's name and winning bid amount
 - **Algorithm**: Iterates through all bids to find the maximum value
 
-## Installation
 
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/auction-bidding-system.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd auction-bidding-system
-```
-
-3. Install dependencies (for Streamlit version):
-```bash
-pip install streamlit
-```
-
-4. Run the program:
-
-**Command Line Version:**
-```bash
-python auction.py
-```
-
-**Streamlit Web App Version:**
-```bash
-streamlit run auction_streamlit.py
-```
 
 ## Requirements
 
